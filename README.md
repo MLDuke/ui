@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository has moved.** It now lives in the [`MLDuke/portfolio-site`](https://github.com/MLDuke/portfolio-site) monorepo, under [`packages/ui`](https://github.com/MLDuke/portfolio-site/tree/main/packages/ui). This copy is archived and read-only. Its history was imported into the monorepo, and the `pre-monorepo` tag marks where it stopped.
+
 # @mlduke/ui
 
 Shared UI for MLDuke's projects. So far it's the design tokens, the source of truth
